@@ -28,7 +28,7 @@ Conenct BTLE, select Doom-remote, and you can play.
 ___
 
 ### Controls:
-They are about the same, as in original doom nano, but with one more feature - jumping. 
+They are about the same, as in original doom. Multi button press is supported
 
 ___
 
