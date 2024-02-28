@@ -9,12 +9,15 @@ This is a gameplay changing mod for engine/game **Doom**, that was made for Ardu
 
 [Original Doom Mbed page](https://github.com/arduino/ArduinoCore-mbed/tree/main/libraries/doom)
 
+[Original Doom Wrapper page](https://github.com/ozkl/doomgeneric)
+
 This mod was made by using Portenta H7 and expansion board.
 
 ![logo](/images/D_Doom.png?raw=true)
 
 ### Wiring
 
+![logo](/images/Schematic.jpg?raw=true)
 if you like to use Serial3 debug: wire up Portenta port T1/RX1 on the expansion board
 ___
 
